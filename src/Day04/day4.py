@@ -27,4 +27,3 @@ bonus = salary * (0.25)
 new_salary = float(salary)
 print("Salary converted into floating-point: ", new_salary)
 print("Salary after adding bonus: ", new_salary + bonus)
-
