@@ -6,13 +6,14 @@ Date:       23/04/2023
 --------------------------
 """
 
-# Dictonary 
+# Dictonary
 
 some_dict = {"akshay": 23, "john": 20, "hrithik": 17, "varun": 14}
 
 def print_dict(dictionary):
-	for i, j in dictionary.items():
-		print(f'{i} : {j}', end=" | ")
-		# print('\n{}: {}'.format(i, j))	
+    ''' Docstrring: Hello '''
+    for i, j in dictionary.items():
+        print(f'{i} : {j}', end=" | ")
+		# print('\n{}: {}'.format(i, j))
 
 print_dict(some_dict)
