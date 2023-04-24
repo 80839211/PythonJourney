@@ -1,8 +1,8 @@
 """
-Day 6 of python learning (Excercise)
+Day 6 of python learning 
 --------------------------
 Author:     Akshay
-Date:       232/04/2023
+Date:       23/04/2023
 --------------------------
 """
 
